@@ -7,7 +7,7 @@ name = "pycallshot"
 version = "0.1.0"
 description = "A simple independent library for rolling dice and managing dice rolls"
 readme = "README.md"
-authors = [{ name = "PyCallShot Contributors" }]
+authors = [{ name = "Dmitry Helios" }]
 license = { file = "LICENSE" }
 classifiers = [
     "License :: OSI Approved :: MIT License",
