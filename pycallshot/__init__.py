@@ -8,7 +8,7 @@ from typing import List, Dict, Tuple, Set, Optional, TypeVar, Union
 from dataclasses import dataclass
 import random as rnd
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ["DiceTower", "Roll"]
 
 LastRoll = Roll(1, 20)
