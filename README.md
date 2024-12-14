@@ -1,4 +1,4 @@
-# Call Shot to the Nuts
+# Called Shot to the Nuts
 
 PyCallShot is a simple independent Python library for rolling dice and managing dice rolls in your games and applications.
 
